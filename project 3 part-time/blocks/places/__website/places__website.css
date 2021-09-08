@@ -1,0 +1,6 @@
+.places__website{
+  max-width: 100%;
+  padding: 0;
+  margin: auto 0 0 0;
+  grid-area: website;
+}
