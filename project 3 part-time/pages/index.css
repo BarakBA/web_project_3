@@ -17,3 +17,7 @@
 @import url(../blocks/lead/__image/lead__image.css);
 @import url(../blocks/photo-grid/photo-grid.css);
 @import url(../blocks/places/__buy-link/places__buy-link.css);
+@import url(../blocks/cover/__buy-button/cover__buy-button.css);
+@import url(../blocks/intro/__quotee/intro__quotee.css);
+@import url(../blocks/lead/__subtitle/lead__subtitle.css);
+@import url(../blocks/places/__paragraph/places__paragraph.css);

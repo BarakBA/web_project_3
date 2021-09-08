@@ -5,7 +5,7 @@
 @import url(__link/places__link.css);
 @import url(__image/places__image.css);
 @import url(__paragraphs/places__paragraphs.css);
-@import url(__paragraph/places__paragraph.css);
+/*@import url(__paragraph/places__paragraph.css);*/
 /*@import url(__buy-link/places__buy-link.css);*/
 
 .places{
