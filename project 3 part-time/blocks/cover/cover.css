@@ -1,8 +1,8 @@
-/*@import url(__link/cover__link.css);
+@import url(__link/cover__link.css);
 @import url(__title/cover__title.css);
-@import url(__subtitle/cover__subtitle.css);*/
-/*@import url(__buy-button/cover__buy-button.css);*/
-/*@import url(__backgroung-overlay/cover__backgroung-overlay.css);*/
+@import url(__subtitle/cover__subtitle.css);
+@import url(__buy-button/cover__buy-button.css);
+@import url(__backgroung-overlay/cover__backgroung-overlay.css);
 
 .cover{
   width: 100%;

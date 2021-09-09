@@ -4,5 +4,3 @@ Technology used:
 html
 css
 BEM
-
-https://barakba.github.io/web_project_3/
