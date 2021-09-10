@@ -1,4 +1,4 @@
-project 2: From homeland to homeland
+project 3: From homeland to homeland
 
 Technology used: 
 html
