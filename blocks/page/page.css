@@ -10,7 +10,7 @@
   color: #fff;
 }
 
-@media screen and(max-width: 768px) {
+@media screen and (max-width: 768px) {
   .page{
     max-width: 768px;
   }
