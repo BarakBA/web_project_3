@@ -3,13 +3,9 @@
   max-width: 1184px;
   height: 740px;
   background: #2A2C2F;
-  opacity: 0;
+  opacity: 0.3;
   position: absolute;
   z-index: 1;
-}
-
-.cover__backgroung-overlay:hover{
-  opacity: 0.8;
 }
 
 @media screen and (max-width: 768px) {
