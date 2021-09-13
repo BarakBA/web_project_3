@@ -1,0 +1,24 @@
+/*@import url(__title/intro__title.css);
+@import url(__blockquote/intro__blockquote.css);
+@import url(__quote/intro__quote.css);
+@import url(__quotee/intro__quotee.css);
+@import url(__text/intro__text.css);*/
+
+.intro{
+  max-width: 984px;
+  padding: 92px 80px 0 0;
+  margin: 0;
+}
+
+@media screen and (max-width: 768px) {
+  .intro{
+    max-width: 768px;
+    padding: 88px 24px 0;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .intro{
+    max-width: 288px;
+  }
+}
