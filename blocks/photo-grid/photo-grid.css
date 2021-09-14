@@ -1,6 +1,7 @@
 /*@import url(__photo/photo-grid__photo.css);*/
 
 .photo-grid{
+  width: 100%;
   max-width: 1184px;
   padding-top: 118px;
   display: grid;

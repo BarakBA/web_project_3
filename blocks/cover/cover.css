@@ -10,6 +10,7 @@
   min-height: 740px;
   background-image: url("../../images/cover-background.jpg");
   background-size: cover;
+  background-position: center;
   margin: 92px 0 0 0;
   padding: 0;
   background-repeat: no-repeat;
@@ -29,13 +30,13 @@
 @media screen and (max-width: 768px) {
   .cover{
     max-width: 768px;
-    min-height: 746px;
+    height: 746px;
   }
 }
 
 @media screen and (max-width: 320px){
   .cover{
     max-width: 320px;
-    min-height: 254px;
+    height: 254px;
   }
 }
